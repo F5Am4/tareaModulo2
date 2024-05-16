@@ -1,0 +1,114 @@
+body{
+    background-color: rgba(223, 189, 40, 0.993);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    padding: 300px;
+}
+
+.white-card{
+    justify-content: center;
+    align-items: start;
+    place-content: center;
+    background-color: white;
+    border-radius: 18px;
+    border-right: solid 8px black;
+    border-bottom: solid 7px black;
+    width: 290px;
+    height: 430px;
+    margin: auto;
+    padding: 50px;
+}
+
+.image-card{
+    width: 100%;
+    margin-left: -30px;
+    height: 280px;
+}
+
+.mini-box{
+    width: 100%;
+    padding: 25px;
+}
+
+#main-image{
+    width: 350px;
+    height: 190px;
+    margin: 0px;
+    padding: 1px;
+    border-radius: 10px;
+}
+
+.parrafo-main{
+    padding: 0;
+    margin: 0;
+    height: 120px;
+}
+
+#low-image{
+    margin-left: -17px;
+    height: 35px;
+    padding: 18px;
+}
+
+.section1{
+    width: 100%;
+    font-size: 17px;
+    margin: 0;
+    padding: 0;
+}
+
+.item-footer{
+    display: flex;
+}
+
+button{
+    background-color: rgba(238, 205, 20, 0.993);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 80px;
+    height: 30px;
+}
+
+figure{
+    text-align: center;
+    margin: 0;
+    height: 160px;
+}
+
+section{
+    margin-left: -25px;
+}
+
+footer{
+    align-items: flex-start;
+}
+
+h4{
+    width: 30%;
+    margin-left: 0px;
+}
+
+h3{
+    margin-left: 3px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+h2{
+    padding: 0;
+    font-weight: 900;
+    font-size: 26px;
+}
+
+b{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+p{
+    color: gray;
+}
+
+
